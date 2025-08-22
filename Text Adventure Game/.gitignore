@@ -1,0 +1,32 @@
+# Visual Studio temporary files
+[Dd]ebug/
+[Rr]elease/
+*.suo
+*.user
+*.aps
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.opensdf
+*.sdf
+*.bak
+*.log
+
+# NuGet packages
+packages/
+
+# Project files
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code settings (if you're using it)
+.vscode/
+
+# User-specific settings
+.vs/
+
+# Other generated files
+*.dll
+*.exe
